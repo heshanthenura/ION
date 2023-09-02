@@ -1,2 +1,4 @@
-# ION
- ION - stands for I'm Online Now. It allows you to find user who are online and active at that time. It got features also like filters. More details soon.
+# <h1 align="center">ION</h1>
+## <h2 align="center">I'm Onlie Now</h2>   
+
+### ION - stands for *I'm Online Now*. It allows you to find users who are online within the site. It got features also like filters to find users with specific requirements(ex:- age,gender,country,games,interests and ect ). More details soon.
